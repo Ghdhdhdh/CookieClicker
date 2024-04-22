@@ -1,0 +1,2 @@
+def shop(cookies):
+    pass
