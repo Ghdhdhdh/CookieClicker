@@ -1,1 +1,0 @@
-{"cookies": 15, "items": {"grandma": 0}}
